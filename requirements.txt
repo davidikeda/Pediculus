@@ -1,6 +1,8 @@
-numpy
 pandas
-yfinance
+numpy
+openpyxl
+torch
 scikit-learn
-tensorflow
 matplotlib
+yfinance
+tensorflow

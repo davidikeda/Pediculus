@@ -1,1 +1,3 @@
-pediculus/datasets
+pediculus/data/raw
+pediculus/data/processed
+pediculus/__pycache__
